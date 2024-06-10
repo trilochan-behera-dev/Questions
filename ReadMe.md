@@ -110,3 +110,77 @@
 93. what is diffence between sort() and toSorted() in js.
 94. how many types we can add the js in html file.
 95. what is strict mode in js.
+
+
+# React Interview Questions
+
+1. What is React.js? What are the benefits of using React.js?
+2. What is the difference between a library and a framework? Is React.js a library or a framework? 
+3. Who created React.js and where was it first used?
+4. What paradigm does React rely on, and how does it impact UI development?
+5. What is the entry point in React.js?
+6. What is JSX?
+7. What is `package.json` and explain different keys in `package.json`?
+8. What is error boundary in React? How do you handle error boundaries in React? Explain how they work and provide an example of their implementation.
+9. What is NPM, NVM, and NPX?
+10. What are the lifecycle methods in React.js?
+11. How do you update a package in React.js?
+12. What are dependencies and devDependencies?
+13. What is the current version of React.js?
+14. What are the features introduced in the latest version of React.js?
+15. What is `package-lock.json` and `node_modules` in React.js?
+16. What are components in React?
+17. What are props in React and how do you use them?
+18. Give some higher-level React components in react.
+19. What are hooks in React? Give some hook names and their uses you use most in your project.
+20. What is the difference between `useEffect` and `useLayoutEffect` hook?
+21. What is the difference between `useMemo` and `React.memo` in React?
+22. What is the difference between `useRef` and `useState` hook?
+23. What is the `useCallback` hook in React.js?
+24. Which hook is used to get the router path in React.js?
+25. What is the use of `useImperativeHandle` hook in React?
+26. Between `useState` and `useReducer` hook, which is better and why?
+27. What is returned in the `useEffect` hook and in the latest version of React is it necessary to write return?
+28. What is development mode in React? Give the issues you faced during development mode.
+29. What is state in React? Why do we use state instead of `var` or `let`?
+30. What are controlled and uncontrolled components in React.js?
+31. What are pure components and higher-order components in React?
+32. What is the virtual DOM in React? If the virtual DOM is created in the browser, does it take some space in the browser, and how is it beneficial?
+33. Is React data flow unidirectional or bidirectional. Explain how?
+34. How do we pass data from child to parent in React?
+35. How does React handle updates to the virtual DOM, and how does it minimize the number of updates to the real DOM?
+36. Explain the concept of "lifting state up" in React. Why is it important, and how does it affect the design of your components?
+37. How do you create a private route in React?
+38. What is `Link` in React and how do you write it?
+39. How do you create a custom hook in React?
+40. What is `React.createElement`?
+41. What is prop drilling in React.js?
+42. What is Suspense in react?
+43. What is diffing and reconciliation algorithm in React?
+44. How do you define a route in a React application?
+45. How do you create a dynamic route in React?
+46. Give the command name to create a React application.
+47. What is an environment variable and how do you use it in a React application?
+48. What is a key in React and is it good to use an index as a key in React?
+49. What is a React fragment and why should we use it?
+50. What is strict mode in React?
+51. What is Babel, ESLint, and Webpack?
+52. What are some issues we face in React.js applications?
+53. How do you write an API in React.js?
+54. Have you used Axios before? If yes, what is the difference between `fetch` and `axios`?
+55. How do you write POST and PUT requests in Axios?
+56. What is the Context API and how is it used in a React application?
+57. What is Redux and why do we use it?
+58. Between Redux and the Context API, which is better to use and why?
+59. What issues do we face while using Redux?
+60. What is Redux Toolkit and what is the structural difference between Redux and Redux Toolkit?
+61. What are actions and reducers in Redux?
+62. What is the render method in React.js?
+63. What is memoization and how is it beneficial?
+64. What are React portals, and how do you use them? Provide a scenario where portals are particularly useful.
+65. How can you optimize performance in a React application?
+66. How do you handle side effects in functional components?
+67. How can you prevent unnecessary re-renders in a React component? Provide examples of techniques or patterns.
+68. Describe the process of code splitting in React and why it is beneficial. How can you implement code splitting in a React application?
+69. How can you implement lazy loading of components in React? Provide an example.
+70. Explain the concept of concurrent mode in React. What benefits does it provide, and how does it change the way you write React components?
